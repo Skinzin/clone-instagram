@@ -1,0 +1,206 @@
+[
+    {
+        "author": {
+            "id": 1,
+            "nickname": "Vinicius Costa",
+            "username": "skinzin",
+            "_avatar": "https://github.com/Skinzin.png"
+        },
+        "_description": "Dev Web Full-Stack",
+        "following": [],
+        "followers": [],
+        "posts": [
+            {
+                "id": 1,
+                "location": null,
+                "_images": "https://images.unsplash.com/photo-1626847152035-cb3f14d8534b?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=387&q=80",
+                "_title": "Porsche 🚗",
+                "_following": true,
+                "_liked": true,
+                "_saved": false,
+                "_amountOfLikes": 20,
+                "_comments": [],
+                "_createdAt": "2023-01-29T19:15:45-03:00"
+            }
+        ], 
+        "stories": [
+            {
+                "id": 1,
+                "location": null,
+                "_images": "https://images.unsplash.com/photo-1626847152035-cb3f14d8534b?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=387&q=80",
+                "_liked": false,
+                "_visualized": true,
+                "_createdAt": "2023-01-29T19:17:00-03:00"
+            }
+        ]
+    },
+    {
+        "author": {
+            "id": 1,
+            "nickname": "7 de Março",
+            "username": "7demarco",
+            "_avatar": "https://upload-static.hoyoverse.com/hoyowiki/2023/02/21/0047e5284a840424de8b21d1ccd042cd_933159568797000001.png"
+        },
+        "_description": "Uma menina espirituosa e peculiar que gosta de tudo que outras garotas na idade dela costumam gostar, como tirar fotos.",
+        "following": [],
+        "followers": [],
+        "posts": [
+            {   
+                "id": 1,
+                "location": "Rio de Janeiro",
+                "_images": "https://globaltour.starrail.info/3/ossweb-img/img-rdj.png",
+                "_title": "O Expresso Astral finalmente chegou ao Rio de Janeiro e estará por aqui por tempo limitado!",
+                "_following": false,
+                "_liked": false,
+                "_saved": false,
+                "_amountOfLikes": 40000,
+                "_comments": [
+                    {
+                        "id": 1,
+                        "author": {
+                            "id": 1,
+                            "nickname": "Vinicius Costa",
+                            "username": "skinzin",
+                            "_avatar": "https://github.com/Skinzin.png"
+                        },
+                        "message": "Empolgadoo para o eventoo =)",
+                        "_createdAt": "2023-04-19T00:00:17.000Z"
+                    }
+                ],
+                "_createdAt": "2023-04-20T10:35:00.000Z"
+            },
+            {   
+                "id": 2,
+                "location": null,
+                "_images": "https://upload-static.hoyoverse.com/hoyolab-wiki/2023/04/04/11094433/bfec8b73a480585c2618c139f2472eaa_1529455447190580850.png",
+                "_title": "Estou tão feliz que vi Pom-Pom de roupinha nova hoje! Adorei!",
+                "_following": false,
+                "_liked": true,
+                "_saved": false,
+                "_amountOfLikes": 3000,
+                "_comments": [],
+                "_createdAt": "2023-04-19T10:35:00.000Z"
+            }
+        ], 
+        "stories": [
+            {
+                "id": 1,
+                "location": null,
+                "_images": "hhttps://globaltour.starrail.info/3/ossweb-img/img-rdj.png",
+                "_liked": false,
+                "_visualized": true,
+                "_createdAt": "2023-04-20T10:35:00.000Z"
+            }
+        ]
+    },
+    {
+        "author": {
+            "id": 3,
+            "nickname": "Asta",
+            "username": "astaoficial",
+            "_avatar": "https://upload-static.hoyoverse.com/hoyowiki/2023/02/21/9ac18d37eab70ad1b7485d8025ec7499_4987547298490400207.png"
+        },
+        "_description": "Pesquisadora-chefe da Estação Espacial Herta e dama distinta de família renomada.<br>Astrônoma cheia de curiosidade e especializada em gerenciar a equipe díspar da estação espacial.",
+        "following": [],
+        "followers": [],
+        "posts": [
+            {
+                "id": 1,
+                "location": null,
+                "_images": "https://upload-static.hoyoverse.com/hoyolab-wiki/2023/04/04/11094433/c6770116e71e5bfb751c23f2c50c6fbe_6430212870004808380.png",
+                "_title": "Seja gerenciando equipes teimosas ou respondendo a Guilda de Intelectuais educadamente, mas com firmeza, Asta lida com tudo sem esforços.",
+                "_following": false,
+                "_liked": true,
+                "_saved": false,
+                "_amountOfLikes": 3000,
+                "_comments": [
+                    {
+                        "id": 1,
+                        "author": {
+                            "id": 2,
+                            "nickname": "7demarco",
+                            "username": "7 de Marco",
+                            "_avatar": "https://upload-static.hoyoverse.com/hoyowiki/2023/02/21/0047e5284a840424de8b21d1ccd042cd_933159568797000001.png"
+                        },
+                        "message": "Uma genia!!!",
+                        "_createdAt": "2023-04-20T00:00:17.000Z"
+                    }
+                ],
+                "_createdAt": "2023-03-19T10:35:00.000Z"
+            },
+            {   
+                "id": 2,
+                "location": null,
+                "_images": "https://upload-static.hoyoverse.com/hoyolab-wiki/2023/04/10/11094433/5906dd1fb682903b2c8fa6b3a314febf_3127521128547748321.png",
+                "_title": "'Temos que treinar a sua inteligencia emocional, Dan Heng!' HAHAHA! 7 De Março gosta de encher o saco do Dan.",
+                "_following": false,
+                "_liked": true,
+                "_saved": false,
+                "_amountOfLikes": 3000,
+                "_comments": [
+                    {
+                        "id": 1,
+                        "author": {
+                            "id": 2,
+                            "nickname": "7demarco",
+                            "username": "7 de Marco",
+                            "_avatar": "https://upload-static.hoyoverse.com/hoyowiki/2023/02/21/0047e5284a840424de8b21d1ccd042cd_933159568797000001.png"
+                        },
+                        "message": "Hihih!",
+                        "_createdAt": "2023-04-20T00:00:17.000Z"
+                    }
+                ],
+                "_createdAt": "2023-03-19T10:35:00.000Z"
+            }
+        ], 
+        "stories": []
+    }, 
+    {
+        "author": {
+            "id": 4,
+            "nickname": "Bronya",
+            "username": "bronyaoficial",
+            "_avatar": "https://upload-static.hoyoverse.com/hoyowiki/2023/02/21/7c97499ec8dac5bd41a0ab91b8bba9a2_9011443874790929649.png"
+        },
+        "_description": "Herdeira da Guardiã Suprema de Belobog, ela é a comandante mais jovem da Guarda Crinalva, e uma das mais competentes.",
+        "following": [],
+        "followers": [],
+        "posts": [], 
+        "stories": []
+    }, 
+    {
+        "author": {
+            "id": 5,
+            "nickname": "Seele",
+            "username": "seeleoficla",
+            "_avatar": "https://upload-static.hoyoverse.com/hoyowiki/2023/02/21/51d48aafbbf69b8e92256a381445ad07_4740490797942876174.png"
+        }, 
+        "_description": "Uma menina espirituosa e valente da Fogo Vivo que cresceu no perigoso Mundo de Baixo de Belobog. Acostumada a ficar sozinha.",
+        "following": [],
+        "followers": [],
+        "posts": [], 
+        "stories": []
+    },
+    {
+        "author": {
+            "id": 6,
+            "nickname": "Natasha",
+            "username": "natashaoficial",
+            "_avatar": "https://upload-static.hoyoverse.com/hoyowiki/2023/02/21/59abc9abc0795ead8a3d3ac2c03530f1_1713347165320581354.png"
+        },
+        "_description": "Uma médica exigente que sempre está com um sorriso no curioso rosto.",
+        "following": [],
+        "followers": [],
+        "posts": [], 
+        "stories": [
+            {
+                "id": 1,
+                "location": null,
+                "_images": "https://upload-static.hoyoverse.com/hoyolab-wiki/2023/04/04/11094433/dfd27a8e2cfe0e4fa29fbbbf08a82cbe_59878223886364010.jpg",
+                "_liked": false,
+                "_visualized": true,
+                "_createdAt": "2023-04-08T10:29:00-03:00"
+            }
+        ]
+    }
+]
