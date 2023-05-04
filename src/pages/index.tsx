@@ -6,7 +6,7 @@ import { House, PlusCircle, Bell, MessengerLogo, MagnifyingGlass, Compass, List,
 import logoInstagram from "../../public/Instagram_logo.png";
 import logoTipo from "../../public/logoInsta.png";
 import reels from "../../public/Reels.svg";
-import { Home } from './Home';
+import Home from './Home';
 import { useEffect, useState } from 'react';
 
 // import
