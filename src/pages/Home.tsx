@@ -9,7 +9,7 @@ import logoInstagram from "../../public/Instagram_logo.png";
 import { Nav } from "@/Components/Nav";
 import { Heart, PlusCircle } from "phosphor-react";
 
-export function Home() {
+export default function Home() {
     const [width, setWidth] = useState<number>(0);
 
     useEffect(() => {
